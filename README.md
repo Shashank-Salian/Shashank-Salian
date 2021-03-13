@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Shashank-Salian
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning TypeScript
+- 👨‍💻 Languages/Libraries familiar with :
+  - HTML & CSS
+  - JavaScript
+  - React
+- 📫 How to reach me :
+  - Instagram : [@shashank._7](https://instagram.com/shashank._7)
+  - YouTube : [codeWithShashank](https://www.youtube.com/channel/UClsQEljkY7JYcTr8ub8zw4w)
+  - Fiverr : [Fiverr](https://www.fiverr.com/shashank_salian)
+  - Email : [shashanksalian96@gmail.com](mailto:shashanksalian96@gmail.com)
