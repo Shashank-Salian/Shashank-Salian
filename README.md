@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashank-Salian
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Flutter
 - 👨‍💻 Languages/Libraries familiar with :
   - HTML & CSS
   - JavaScript
