@@ -1,21 +1,99 @@
-# 💫 About Me:
-Full-stack developer specializing in TypeScript and React — currently juggling TypeScript, Hono, React, and Bun, trying to convince them all to get along.
+<p align="center">
+  <img alt="header" src="https://shieldcn.dev/header/dots.svg?title=Shashank&amp;subtitle=A+nerdy+full-stack+developer+specializing+in+React+and+TypeScript&amp;mode=dark&amp;font=space-grotesk&amp;image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1550745165-9bc0b252726f%3Fw%3D1600%26q%3D70%26fit%3Dcrop%26fm%3Djpg" />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/shashank._7"><img alt="Custom badge" src="https://shieldcn.dev/badge/Instagram.svg?&amp;font=space-grotesk&amp;logo=instagram" /></a>
+  <a href="https://linkedin.com/in/shashank172002"><img alt="Custom badge" src="https://shieldcn.dev/badge/LinkedIn.svg?font=space-grotesk&amp;logo=lu%3ALinkedin" /></a>
+  <a href="https://x.com/shashank_____7"><img alt="follow" src="https://shieldcn.dev/x/follow/shashank_____7.svg?font=space-grotesk&amp;logo=ri%3APiXLogo" /></a>
+  <a href="mailto:shashanksalian96@gmail.com"><img alt="Custom badge" src="https://shieldcn.dev/badge/Email.svg?logo=gmail" /></a>
+</p>
+
+## About me
+
+I'm a curious **full-stack** web developer currently building web applications at a startup. I've been working with JavaScript and React for over **6 years**, and I enjoy building fast, reliable, and user-friendly products.
+
+Outside of work, I'm always curious about how computers work under the hood and love exploring the technologies that power the web. When I'm not at my desk, you'll probably find me cooking something new and maybe sometimes planning my next trip, I'm always up for good food and new places.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shashank._7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank172002) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shashank_____7) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashanksalian96@gmail.com) 
+## 💻 Tech Stack:
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Hono](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shashank-Salian&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shashank-Salian&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Salian&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h3 align="center">Web & Programming Languages</h3>
+    <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML5" width="40"/></a>&emsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS3" width="40"/></a>&emsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="JavaScript" width="40"/></a>&emsp;
+        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="TypeScript" width="40"/></a>&emsp;
+        <a href="https://python.org/" title="Python"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" width="40"/></a>&emsp;
+        <a href="https://docs.oracle.com/javase/tutorial/" title="Java"><img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" width="40"/></a>&emsp;
+        <a href="https://go.dev/" title="Go"><img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="Go" width="40"/></a>&emsp;
+    </p>
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shashank-Salian&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">Front-End Frameworks & Libraries</h3>
+    <p align="center">
+        <a href="https://react.dev/" title="ReactJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="ReactJS" width="40" /></a>&emsp;
+        <a href="https://nextjs.org/" title="NextJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="NextJS" width="40" /></a>&emsp;
+        <a href="https://tailwindcss.com/" title="TailwindCSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="TailwindCSS" width="40" /></a>&emsp;
+        <a href="https://threejs.org/" title="ThreeJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" alt="ThreeJS" width="40" /></a>&emsp;
+        <a href="https://astro.build/" title="Astro"><img src="https://go-skill-icons.vercel.app/api/icons?i=astro" alt="Astro" width="40" /></a>&emsp;
+        <a href="https://tanstack.com/" title="TanStack"><img src="https://go-skill-icons.vercel.app/api/icons?i=tanstack" alt="TanStack" width="40" /></a>&emsp;
+        <a href="https://ui.shadcn.com/" title="ShadCN"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="ShadCN" width="40" /></a>&emsp;
+        <a href="https://angular.dev/" title="Angular"><img src="https://go-skill-icons.vercel.app/api/icons?i=angular" alt="Angular" width="40" /></a>&emsp;
+    </p>
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Shashank-Salian&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">Back-End Frameworks & Libraries</h3>
+    <p align="center">
+        <a href="https://nodejs.org/" title="NodeJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="NodeJS" width="40" /></a>&emsp;
+        <a href="https://bun.sh/" title="Bun"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" alt="Bun" width="40" /></a>&emsp;
+        <a href="https://hono.dev/" title="HonoJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=hono" alt="HonoJS" width="40" /></a>&emsp;
+        <a href="https://nestjs.com/" title="NestJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" alt="NestJS" width="40" /></a>&emsp;
+        <a href="https://aws.amazon.com/" title="AWS"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="AWS" width="40" /></a>&emsp;
+        <a href="https://supabase.com/" title="Supabase"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" alt="Supabase" width="40" /></a>&emsp;
+        <a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" alt="Drizzle ORM" width="40" /></a>&emsp;
+        <a href="https://www.prisma.io/" title="Prisma ORM"><img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" alt="Prisma ORM" width="40" /></a>&emsp;
+    </p>
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">Databases</h3>
+    <p align="center">
+        <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="PostgreSQL" width="40" /></a>&emsp;
+        <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="MongoDB" width="40" /></a>&emsp;
+        <a href="https://www.mysql.com/" title="MySQL"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" width="40" /></a>&emsp;
+    </p>
+<br/>
+
+<h3 align="center">Operating Systems & Shell</h3>
+    <p align="center">
+        <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="Bash" width="40" /></a>&emsp;
+        <a href="https://www.kernel.org/" title="Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux" width="40" /></a>&emsp;
+        <a href="https://archlinux.org/" title="Arch Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" alt="Arch Linux" width="40" /></a>&emsp;
+    </p>
+<br/>
+
+<h3 align="center">Platforms & Hosting</h3>
+    <p align="center">
+        <a href="https://github.com/" title="Github"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="Github" width="40" /></a>&emsp;
+        <a href="https://vercel.com/" title="Vercel"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="Vercel" width="40" /></a>&emsp;
+        <a href="https://www.netlify.com/" title="Netlify"><img src="https://go-skill-icons.vercel.app/api/icons?i=netlify" alt="Netlify" width="40" /></a>&emsp;
+    </p>
+<br/>
+
+<h3 align="center">Devops</h3>
+    <p align="center">
+        <a href="https://www.docker.com/" title="Docker"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" width="40" /></a>&emsp;
+        <a href="https://github.com/features/actions" title="Github CI/CD"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="Github CI/CD" width="40" /></a>&emsp;
+    </p>
+<br/>
+
+<h3 align="center">Tools and Software</h3>
+    <p align="center">
+        <a href="https://www.npmjs.com/" title="NPM"><img src="https://go-skill-icons.vercel.app/api/icons?i=npm" alt="NPM" width="40" /></a>&emsp;
+        <a href="https://git-scm.com/" title="Git"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" width="40" /></a>&emsp;
+        <a href="https://code.visualstudio.com/" title="VSCode"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="VSCode" width="40" /></a>&emsp;
+        <a href="https://www.cursor.com/" title="Cursor"><img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" alt="Cursor" width="40" /></a>&emsp;
+        <a href="https://figma.com/" title="Figma"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="Figma" width="40" /></a>&emsp;
+        <a href="https://vite.dev/" title="Vite"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" alt="Vite" width="40" /></a>&emsp;
+    </p>
+<br/>
