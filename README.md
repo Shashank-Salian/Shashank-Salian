@@ -48,7 +48,7 @@ Outside of work, I'm always curious about how computers work under the hood and 
         <a href="https://nodejs.org/" title="NodeJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="NodeJS" width="40" /></a>&emsp;
         <a href="https://bun.sh/" title="Bun"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" alt="Bun" width="40" /></a>&emsp;
         <a href="https://hono.dev/" title="HonoJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=hono" alt="HonoJS" width="40" /></a>&emsp;
-        <a href="https://docs.nestjs.com/" title="NestJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" alt="NestJS" width="40" /></a>&emsp;
+        <a href="https://nestjs.com/" title="NestJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" alt="NestJS" width="40" /></a>&emsp;
         <a href="https://aws.amazon.com/" title="AWS"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="AWS" width="40" /></a>&emsp;
         <a href="https://supabase.com/" title="Supabase"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" alt="Supabase" width="40" /></a>&emsp;
         <a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" alt="Drizzle ORM" width="40" /></a>&emsp;
@@ -66,7 +66,7 @@ Outside of work, I'm always curious about how computers work under the hood and 
 
 <h3 align="center">Operating Systems & Shell</h3>
     <p align="center">
-        <a href="https://www.gnu.org/software/bash/manual/" title="Bash"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="Bash" width="40" /></a>&emsp;
+        <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="Bash" width="40" /></a>&emsp;
         <a href="https://www.kernel.org/" title="Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux" width="40" /></a>&emsp;
         <a href="https://archlinux.org/" title="Arch Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" alt="Arch Linux" width="40" /></a>&emsp;
     </p>
@@ -82,8 +82,8 @@ Outside of work, I'm always curious about how computers work under the hood and 
 
 <h3 align="center">Devops</h3>
     <p align="center">
-        <a href="https://docs.docker.com/" title="Docker"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" width="40" /></a>&emsp;
-        <a href="https://docs.github.com/en/actions" title="Github CI/CD"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="Github CI/CD" width="40" /></a>&emsp;
+        <a href="https://www.docker.com/" title="Docker"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" width="40" /></a>&emsp;
+        <a href="https://github.com/features/actions" title="Github CI/CD"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="Github CI/CD" width="40" /></a>&emsp;
     </p>
 <br/>
 
