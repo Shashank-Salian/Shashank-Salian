@@ -64,6 +64,14 @@ Outside of work, I'm always curious about how computers work under the hood and 
     </p>
 <br/>
 
+<h3 align="center">Operating Systems & Shell</h3>
+    <p align="center">
+        <a href="https://www.gnu.org/software/bash/manual/" title="Bash"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="Bash" width="40" /></a>&emsp;
+        <a href="https://www.kernel.org/doc/html/latest/" title="Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux" width="40" /></a>&emsp;
+        <a href="https://wiki.archlinux.org/" title="Arch Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" alt="Arch Linux" width="40" /></a>&emsp;
+    </p>
+<br/>
+
 <h3 align="center">Platforms & Hosting</h3>
     <p align="center">
         <a href="https://github.com/" title="Github"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="Github" width="40" /></a>&emsp;
@@ -87,13 +95,5 @@ Outside of work, I'm always curious about how computers work under the hood and 
         <a href="https://docs.cursor.com/" title="Cursor"><img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" alt="Cursor" width="40" /></a>&emsp;
         <a href="https://help.figma.com/" title="Figma"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="Figma" width="40" /></a>&emsp;
         <a href="https://vite.dev/guide/" title="Vite"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" alt="Vite" width="40" /></a>&emsp;
-    </p>
-<br/>
-
-<h3 align="center">Operating Systems & Shell</h3>
-    <p align="center">
-        <a href="https://www.gnu.org/software/bash/manual/" title="Bash"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="Bash" width="40" /></a>&emsp;
-        <a href="https://www.kernel.org/doc/html/latest/" title="Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux" width="40" /></a>&emsp;
-        <a href="https://wiki.archlinux.org/" title="Arch Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" alt="Arch Linux" width="40" /></a>&emsp;
     </p>
 <br/>
